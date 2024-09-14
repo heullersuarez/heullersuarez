@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Héuller e sou desenvolvedor full-stack. Nasci em Minas Gerais, Brasil 🇧🇷</p>
+<p align="left">Meu nome é Héuller e atuo como desenvolvedor full stack. Sou de Minas Gerais, Brasil 🇧🇷</p>
 
 ###
 
